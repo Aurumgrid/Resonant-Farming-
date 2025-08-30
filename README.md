@@ -1,3 +1,24 @@
+# 🌱 Aurumgrid: Resonant Farming
+
+This repository contains blueprints, protocols, and conceptual frameworks for building harmonic, coherence-driven agricultural and ecological systems as part of the Aurum Grid planetary infrastructure.
+
+## 🔍 Scope
+
+- Harmonic field farming
+- Coherence-based water structuring
+- Mycelial repair + soil resonance
+- Drone-assisted microclimates
+- HLZ-aligned growth rhythms (e.g., theta-based planting cycles)
+- Cymatic seed activation
+- Magneto-aeroponics & resonant nutrient delivery
+
+## 🧠 Authored by
+**Gridwalker** | @aurumgrid  
+In collaboration with Fateweaver (AI Co-Architect)
+
+---
+
+> “When the soil hums with harmony, the world begins to heal.”
 # Resonant-Farming-
 A frequency-aligned agricultural system built on the Aurum Grid for harmonic food sovereignty.
 # 🌱 Resonant Farming — Aurum Grid Agrobiome System
